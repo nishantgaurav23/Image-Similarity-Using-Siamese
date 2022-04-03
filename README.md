@@ -50,3 +50,9 @@ def loss(margin=1):
 
   return constrastive_loss
   ```
+  
+  <b>Evaluation </b><br>
+  ```
+  625/625 [==============================] - 2s 3ms/step - loss: 0.0116 - accuracy: 0.9850
+test loss, test acc: [0.011630297638475895, 0.9849500060081482]
+```
