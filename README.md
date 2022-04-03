@@ -20,7 +20,8 @@ In supervised similarity learning, the network are then trained to maximize the 
 
 
 <b>Contastive Loss</b><br>
-`def loss(margin=1):
+```
+def loss(margin=1):
   """Provides 'contrastive_loss' an encoding scope with variable 'margin'.
   Arguments:
     margin: Integer, defines the baseline for distance for which pairs
@@ -47,4 +48,5 @@ In supervised similarity learning, the network are then trained to maximize the 
         (1-y_true) * square_pred + (y_true) * margin_square
     )
 
-  return constrastive_loss`
+  return constrastive_loss
+  ```
