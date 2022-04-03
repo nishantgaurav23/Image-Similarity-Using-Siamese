@@ -10,4 +10,9 @@ In supervised similarity learning, the network are then trained to maximize the 
 ![pairs_image_label_1_val](https://user-images.githubusercontent.com/15634495/161436143-af8624ea-fb51-48dc-80f2-89f810b9b3a4.png) <br>
 
 <b>Test Images</b><br>
+![pairs_image_label_1_test](https://user-images.githubusercontent.com/15634495/161436291-ce80258c-d5d4-4f89-b8d6-bcd7c0201e74.png)<br>
+
+<b>Accuracy</b></br>
+
+<b>Loss</b>
 
