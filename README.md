@@ -4,4 +4,7 @@
 In supervised similarity learning, the network are then trained to maximize the contrast(distance) between embeddings of inputs of different classes, while minimizing the distance between embeddings of similar classes, resulting in embedding spaces that reflect the class segmentation of the training inputs.
 
 <b>Training Images</b><br>
-![pairs_image_label_1](https://user-images.githubusercontent.com/15634495/161435960-5b029bce-8a49-4f4f-aa91-72100e47d020.png)
+![pairs_image_label_1](https://user-images.githubusercontent.com/15634495/161435960-5b029bce-8a49-4f4f-aa91-72100e47d020.png) <br>
+
+<b>Validation Images</b>
+![pairs_image_label_1_val](https://user-images.githubusercontent.com/15634495/161436143-af8624ea-fb51-48dc-80f2-89f810b9b3a4.png) <br>
